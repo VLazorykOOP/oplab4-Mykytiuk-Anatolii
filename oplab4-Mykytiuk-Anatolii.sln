@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oplab4-Mykytiuk-Anatolii", "oplab4-Mykytiuk-Anatolii\oplab4-Mykytiuk-Anatolii.csproj", "{BA245406-0010-4243-ACD3-0F8891218866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA245406-0010-4243-ACD3-0F8891218866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA245406-0010-4243-ACD3-0F8891218866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA245406-0010-4243-ACD3-0F8891218866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA245406-0010-4243-ACD3-0F8891218866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832B6353-75E8-4AF6-BCB0-8793B3EF3BE2}
+	EndGlobalSection
+EndGlobal
