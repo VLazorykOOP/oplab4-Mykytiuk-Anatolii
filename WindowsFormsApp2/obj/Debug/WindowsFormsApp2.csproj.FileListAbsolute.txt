@@ -1,0 +1,13 @@
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.log_in.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sing_up.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Add_Form.resources
